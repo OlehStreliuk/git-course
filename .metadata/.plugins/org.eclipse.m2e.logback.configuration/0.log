@@ -1,0 +1,17 @@
+2022-10-27 22:32:21,883 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-27 22:36:40,359 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ua.pp.voronin.serhii.tommy:magic-ball:1.0-pre-release @ D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\pom.xml.
+2022-10-27 22:36:40,986 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1.6-sample-java-app-master/src/main/java
+2022-10-27 22:36:40,987 [Worker-20: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1.6-sample-java-app-master/src/test/java
+2022-10-27 22:36:41,025 [Worker-20: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2022-10-27 22:36:41,835 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-27 22:36:41,836 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\src\main\resources
+2022-10-27 22:36:41,839 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-27 22:36:41,840 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\src\test\resources
+2022-10-27 22:37:33,227 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-27 22:37:33,228 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\src\main\resources
+2022-10-27 22:37:33,230 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-27 22:37:33,231 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\src\test\resources
+2022-10-27 22:47:27,379 [Worker-22: Launching magic-ball-eclipce] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-27 22:47:27,382 [Worker-22: Launching magic-ball-eclipce] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\src\main\resources
+2022-10-27 22:47:27,389 [Worker-22: Launching magic-ball-eclipce] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-10-27 22:47:27,391 [Worker-22: Launching magic-ball-eclipce] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JAVA Tommy\1.6-sample-java-app-master JDK\1.6-sample-java-app-master\src\test\resources
